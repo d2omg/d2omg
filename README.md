@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d2omg
 - 👀 I’m interested in  ESP32
 - 🌱 I’m currently learning in school 627
-- 💞️ I’m looking to collaborate on ayushsharma82
+- 💞️ I’m looking to collaborate with @ayushsharma82
 - 📫 How to reach me? daniil@d2omg.ru
 
 <!---
